@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git reset:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git merge:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(winget install:*)",
+      "Bash(scoop:*)",
+      "Bash(choco --version:*)",
+      "Bash(choco install:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}
